@@ -1,0 +1,8 @@
+{
+    "name": "item.lmr.lmr.name",
+    "display": "lmr:lmr_display",
+    "data": "lmr:lmr_data",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 10
+}

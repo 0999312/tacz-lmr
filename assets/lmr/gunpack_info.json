@@ -1,0 +1,11 @@
+{
+    "version": "1.0.1",
+    "name": "pack.lmr.name",
+    "desc": "pack.lmr.desc",
+    "license": "CC BY-NC-ND 4.0",
+    "author": [
+      "Syameimaru_Zheng",
+      "Dumnheint"
+    ],
+    "date": "2024-11-25"
+}
